@@ -1,7 +1,7 @@
 # Hi, I'm Jaydeep! 👋
 
 ## 💫 About Me:
-I am currently pursuing a B.Tech. from Uttaranchal University, and I am in my final year. My main programming language is C++, and I am familiar with Python, Java, and Kotlin. I am currently learning web development.
+I am a B.Tech. Graduate from Uttaranchal University. My main programming language is C++, and I am familiar with Python, Java, and Kotlin. I am currently learning web development.
 
 
 ## 🌐 Socials:
